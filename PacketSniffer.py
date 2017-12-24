@@ -2,7 +2,6 @@ import logging
 import subprocess
 from PyQt5 import QtCore, QtGui, QtWidgets
 from io import StringIO
-import unicodedata
 
 try:
     from scapy.all import *
